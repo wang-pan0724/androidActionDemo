@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="呼叫指定电话"/>
+    <Button
+        android:id="@+id/button_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="访问网址"/>
+    <Button
+        android:id="@+id/button_04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送短信"/>
+    <Button
+        android:id="@+id/button_05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开相册"/>
+
+    <Button
+        android:id="@+id/button_06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="定位"/>
+</LinearLayout>
